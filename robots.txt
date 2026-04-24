@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handyman-service-fort-worth-tx.netlify.app/sitemap.xml
